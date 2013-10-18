@@ -14,3 +14,7 @@ Add the ssh-keys to git-account
 
 Add colorful graphs to your git-output
 > http://stackoverflow.com/questions/1057564/pretty-git-branch-graphs
+
+worked together with Tu and Tim and forking repository MisterTu/LectureNotes . Then I changed the file alleskaputt.txt by adding a line of nonsense and sent them a pull request
+
+Resolved a merge-conflict
