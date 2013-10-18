@@ -20,6 +20,7 @@ Add branch to your bash
 * Add the following to your .bashrc
 
 >source $HOME/.git-script/.git-prompt.sh
+
 >PS1="\t \u:\w\$(__git_ps1) >" 
 
 * Thentype 'source .bashrc' and you should be done
