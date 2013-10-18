@@ -7,5 +7,3 @@ then i switched on a branch while he deleted it on the master branch. i also del
 
 
 
-
-IF I ADD THIS LINE IT IS GOING TO CREATE A MERGE CONFLICT IN 10 MINUTES!!!!!!!!
