@@ -1,0 +1,11 @@
+Ruby and Rails installation
+
+
+The installation works quite easy on Ubuntu.  After installing the RVM and sourcing it( The PATH is automatically created and to source just type rvm) you can easily install every version of Ruby.
+
+Once Ruby is installed the gem package manager makés installing Rails painless. 
+
+
+One thing that I did have a problem with was the fact that the command rails server did not want to work due to lack of JavaScript.
+
+The workaround that helped me was adding " gem 'therubyracer ' " to the Gemfile. After doing this everything worked falwless.

@@ -1,0 +1,10 @@
+List of important Command Line Commands with examples
+
+
+cd: Changing the directory  ||  cd Documents 
+ls: listing all Files and Directories that are in the current Directory || ls
+la: listing all files in the Directory, including hidden files || la
+mkdir : creating a new directory ||  mkdir Documents
+pwd: it prints out the directory you are currently working in || pwd
+mv: moves or renames a file || mv file1 file2   ----- mv file1 Directory1
+cp: copies a file into another file or into another Directory || cp file1 file2   -----  cp file1 directory1
