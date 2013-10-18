@@ -6,4 +6,4 @@ then i switched on a branch while he deleted it on the master branch. i also del
 
 
 
-
+kaj 
